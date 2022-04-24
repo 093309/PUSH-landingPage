@@ -494,7 +494,7 @@ h3 {
 /* --------------------Work------------------------ */
 .work {
   background: #08071c;
-  /* padding: 40px 0; */
+  padding: 40px 0;
   height: 170vh;
 }
 
@@ -803,7 +803,7 @@ footer .icon i {
     width: 20%;
   } */
   .work {
-    height: 340vh;
+    height: 530vh;
   }
 
   .work .content {
@@ -869,6 +869,9 @@ footer .icon i {
   }
   .about img{
     width: 100%;
+  }
+  .services .topMargin{
+    margin-top: 0px;
   }
   .footer .grid1{
     grid-template-columns: 1fr;
