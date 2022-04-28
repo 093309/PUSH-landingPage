@@ -9,7 +9,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route  path="/push-portfolio" element={<HomePage />} />
+        <Route  path="/" element={<HomePage />} />
       </Routes>
       <Footer />
     </>

@@ -9,6 +9,7 @@ import Work from '../home/work/Work';
 import Wrapper from '../home/Wrapper';
 import WrapperOne from '../home/WrapperOne';
 import Home from './../home/homes/Home';
+import {Link} from 'react-router-dom'
 
 const HomePage = () => {
   return (
@@ -26,4 +27,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default HomePage;
