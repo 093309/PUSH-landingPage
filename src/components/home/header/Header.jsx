@@ -21,7 +21,7 @@ const Header = () => {
       <header className='header'>
         <div className="container flex">
           <div className="logo">
-            <img src={img} alt="logo" />
+            <a href="#"><img src={img} alt="logo" /></a>
           </div>
           <div className="nav">
             <ul className={sideBar ? 'nav-links-sidebar' : 'nav-links'} onClick={() => { setSideBar(false) }}>
