@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PUSH-landingPage/static/css/main.c4cd3184.css",
+    "main.js": "/PUSH-landingPage/static/js/main.4e5089ac.js",
+    "static/media/home.png": "/PUSH-landingPage/static/media/home.684b0c18086ff9b1e014.png",
+    "static/media/services-4.jpg": "/PUSH-landingPage/static/media/services-4.af8743f15d455a78fefd.jpg",
+    "static/media/about.jpg": "/PUSH-landingPage/static/media/about.79110de7dfdd5a7ae9c0.jpg",
+    "static/media/blog2.jpg": "/PUSH-landingPage/static/media/blog2.4ede1dd9852bd70328b3.jpg",
+    "static/media/services-2.jpg": "/PUSH-landingPage/static/media/services-2.4ede1dd9852bd70328b3.jpg",
+    "static/media/blog3.jpg": "/PUSH-landingPage/static/media/blog3.677c92e9354be1c6e383.jpg",
+    "static/media/services-3.jpg": "/PUSH-landingPage/static/media/services-3.677c92e9354be1c6e383.jpg",
+    "static/media/blog1.jpg": "/PUSH-landingPage/static/media/blog1.cf9bae233bae0a21dd4a.jpg",
+    "static/media/services-1.jpg": "/PUSH-landingPage/static/media/services-1.cf9bae233bae0a21dd4a.jpg",
+    "static/media/work1.jpg": "/PUSH-landingPage/static/media/work1.9ec69fdf4e6b5b5538c6.jpg",
+    "static/media/work6.jpg": "/PUSH-landingPage/static/media/work6.a304c0351e1be5d300fb.jpg",
+    "static/media/work2.jpg": "/PUSH-landingPage/static/media/work2.8fdb1d7c43ff56fc822e.jpg",
+    "static/media/services-5.jpg": "/PUSH-landingPage/static/media/services-5.91a87957b85af1b06dbd.jpg",
+    "static/media/work5.jpg": "/PUSH-landingPage/static/media/work5.39e7da800afd2be2757d.jpg",
+    "static/media/work4.jpg": "/PUSH-landingPage/static/media/work4.466d10db27a9296b924a.jpg",
+    "static/media/work3.jpg": "/PUSH-landingPage/static/media/work3.4410219c3046fc669bfa.jpg",
+    "index.html": "/PUSH-landingPage/index.html",
+    "main.c4cd3184.css.map": "/PUSH-landingPage/static/css/main.c4cd3184.css.map",
+    "main.4e5089ac.js.map": "/PUSH-landingPage/static/js/main.4e5089ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4cd3184.css",
+    "static/js/main.4e5089ac.js"
+  ]
+}
