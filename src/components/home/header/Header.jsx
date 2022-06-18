@@ -13,8 +13,9 @@ const Header = () => {
 
   window.addEventListener('scroll', function () {
     const header = document.querySelector('.header');
+    const body  = document.body;
     header.classList.toggle('active', window.scrollY > 90)
-
+    body.classList.toggle('noscroll');
   })
   return (
     <>
@@ -25,7 +26,7 @@ const Header = () => {
           </div>
           <div className="nav">
             <ul className={sideBar ? 'nav-links-sidebar' : 'nav-links'} onClick={() => { setSideBar(false) }}>
-              <li><Link to="/">Home</Link></li>
+              <li><Link to="/home">Home</Link></li>
               <li><Link to="/pages">Pages</Link></li>
               <li><Link to="/blog">Blog</Link></li>
               <li><Link to="/portfolio">Portfolio</Link></li>
